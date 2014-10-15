@@ -75,5 +75,11 @@ pps.还有部分在云笔记中
 - Android开发：Android Studio  
 - git：SourceTree  
 - SQL：Navicat  
-- MarkDown：Mou
+- MarkDown：Mou   
+
+特殊技能  
+
+- 会修电脑
+- 会翻墙
+- 英语还行能看懂 stack overflow
 
