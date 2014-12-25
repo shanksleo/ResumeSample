@@ -17,7 +17,7 @@
  - 本科/杭州电子科技大学计算机系软件工程专业 
  - 工作年限：1年
  - 微博：[@shanks_你想去哪里](http://weibo.com/1766959881/profile?topnav=1&wvr=5&user=1) 
- - 技术博客：jinhao.tk 
+ - 个人博客：jinhao.tk (```技术文章发表在微博和 gitbook```)
  - Github: https://github.com/shanksleo （```一些练习项目```）
  - 期望职位：Android高级程序员
  - 期望薪资：税前月薪8k~15k，特别喜欢的公司可例外
