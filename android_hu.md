@@ -15,10 +15,10 @@
 
  - 胡津豪/男/1991 
  - 本科/杭州电子科技大学计算机系软件工程专业 
- - 工作年限：1年
+ - 工作年限：2年
  - 微博：[@shanks_你想去哪里](http://weibo.com/1766959881/profile?topnav=1&wvr=5&user=1) 
- - 个人博客：jinhao.tk (```技术文章发表在微博和 gitbook```)
- - Github: https://github.com/shanksleo （```一些练习项目```）
+ - 个人博客： [shanks-q.lofter.com](http://shanks-q.lofter.com)
+ - Github: https://github.com/shanksleo 
  - 期望职位：Android高级程序员
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：杭州/上海
@@ -54,6 +54,8 @@
 ## 技术文章
 在空闲看了大量的书籍，写了一些读书笔记  
 
+- 博客:shanks-q.lofter.com
+
 - 发布在微博（tag：#每日一图#，#设计模式#，#Android从零单排#,#算法#），
 
 - 还有个人在线书本,有转载别人的,有自己写的[gitbook](http://shanksleo.gitbooks.io/cookbook/) 
@@ -63,6 +65,10 @@ ps.都是图片形式，偏于复习。觉得和别人写的差别不大，就�
 pps.还有部分在云笔记中
 
 
+## 开源项目
+
+####一个
+github 地址 :[once](https://github.com/shanksleo/once)
 
 # 技能清单
 
