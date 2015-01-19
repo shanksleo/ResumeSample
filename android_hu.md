@@ -20,7 +20,7 @@
  - 个人博客： [shanks-q.lofter.com](http://shanks-q.lofter.com)
  - Github: https://github.com/shanksleo 
  - 期望职位：Android高级程序员
- - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪7k~10k，特别喜欢的公司可例外
  - 期望城市：杭州/上海
 
 ---
@@ -36,6 +36,7 @@
 * 使用 PreferenceFragment 做了设置界面
 * 实现了 listview 上 checkbox 的多选和单选
 * 使用了开源的 butterknife
+* 使用了开源数据库 litepal
 
 ### 政府网站项目 （```JAVA WEB```）
 * 添加功能，添加了附件上传功能。  
