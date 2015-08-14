@@ -16,20 +16,20 @@
  - 胡津豪/男/1991 
  - 本科/杭州电子科技大学计算机系软件工程专业 
  - 工作年限：2年
- - 微博：[@shanks_你想去哪里](http://weibo.com/1766959881/profile?topnav=1&wvr=5&user=1) 
- - 个人博客： [shanks-q.lofter.com](http://shanks-q.lofter.com)
+ - 微博：[@shanks_你想去哪里](http://weibo.com/1766959881/profile?topnav=1&wvr=5&user=1)  
  - Github: [https://github.com/shanksleo](https://github.com/shanksleo )
  - GitBook:[http://shanksleo.gitbooks.io/cookbook/](http://shanksleo.gitbooks.io/cookbook/) 
+ - 个人博客： [shanks-q.lofter.com](http://shanks-q.lofter.com)
  - 期望职位：Android程序员
- - 期望薪资：税前月薪8k，特别喜欢的公司可例外
- - 期望城市：杭州/上海
+ - 期望薪资：税前月薪9k，特别喜欢的公司可例外
+ - 期望城市：杭州
 
 ---
 
 # 工作经历
 
 
-## 浙江久远教育软件有限公司 （ 2013年6月 ~ 至今 ）
+## 浙江久远教育软件有限公司 
 
 
 ###JHApplication（``` Android```）
