@@ -212,3 +212,10 @@ gitosc 地址 :[Codes](http://git.oschina.net/shanks/codes)
 - 英语还行能看懂 stack overflow是个好东西
 - 会思考，也爱做笔记
 
+
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+
+
